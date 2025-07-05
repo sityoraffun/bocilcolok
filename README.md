@@ -1,2 +1,1 @@
-# bocilcolok
-bocilcolok
+# [bocilcolok](https://bocilcolok.pages.dev)
